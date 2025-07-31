@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=pedrobrito17&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobrito17" />
 </p>
 
-- 🔭 Atualmente estou trabalhando em **LICITARE LTDA**
+- 🔭 Atualmente estou trabalhando no **Corpo de Bombeiros Militar do Maranhão e na Licitare LTDA**
 
 - 🌱 Atualmente estou aprendendo sobre **uso de IA para aumento de performance no desenvolvimento.**
 
