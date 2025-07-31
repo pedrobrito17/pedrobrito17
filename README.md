@@ -40,11 +40,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seuusuario&show_icons=true&locale=pt-br&layout=compact" alt="seuusuario" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobrito17&show_icons=true&locale=pt-br&layout=compact" alt="pedrobrito17" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&locale=pt-br" alt="seuusuario" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrobrito17&show_icons=true&locale=pt-br" alt="pedrobrito17" />
 </p>
 
 ---
