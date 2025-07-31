@@ -1,19 +1,19 @@
-<h1 align="center">Olá 👋, Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá 👋, Eu sou Pedro Brito</h1>
 <h3 align="center">Desenvolvedor Full Stack | Apaixonado por resolver problemas com tecnologia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="seuusuario" />
+  <img src="https://komarev.com/ghpvc/?username=pedrobrito17&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobrito17" />
 </p>
 
 - 🔭 Atualmente estou trabalhando em **LICITARE LTDA**
 
-- 🌱 Atualmente estou aprendendo **[Tecnologias, ferramentas ou áreas que está estudando]**
+- 🌱 Atualmente estou aprendendo sobre **uso de IA para aumento de performance no desenvolvimento.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/seuusuario](https://github.com/seuusuario)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/pedrobrito17](https://github.com/pedrobrito17)
 
-- 📫 Como me contatar: **[seuemail@email.com]**
+- 📫 Como me contatar: **[pedrobrito17@gmail.com]**
 
-- ⚡ Curiosidade: **[algo divertido ou interessante sobre você]**
+- ⚡ Curiosidade: **[Sou bombeiro militar e engenheiro de software]**
 
 ---
 
