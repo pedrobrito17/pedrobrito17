@@ -11,9 +11,9 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/pedrobrito17](https://github.com/pedrobrito17)
 
-- 📫 Como me contatar: **[pedrobrito17@gmail.com]**
+- 📫 Como me contatar: **pedrobrito17@gmail.com**
 
-- ⚡ Curiosidade: **[Sou bombeiro militar e engenheiro de software]**
+- ⚡ Curiosidade: **Sou bombeiro militar e engenheiro de software**
 
 ---
 
