@@ -51,10 +51,10 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/seulinkedin" target="blank">
+  <a href="https://linkedin.com/in/pedrobrito17" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seulinkedin" height="30" width="40" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:pedrobrito17@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" />
   </a>
 </p>
